@@ -14,9 +14,10 @@ input{
     border-bottom : 1px solid black;
 }
 
-#output{
+.output{
     height: 20px;
     width:40px;
+    color: white;
 }
 
 input:focus{
