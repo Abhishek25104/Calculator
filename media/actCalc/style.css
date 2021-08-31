@@ -4,7 +4,7 @@ label{
    
 }
 body{
-    background-image: url("./media/colin-watts-N5_MgbzR2pg-unsplash.jpg");
+    background-image: url("./colin-watts-N5_MgbzR2pg-unsplash.jpg");
 }
 
 input{
@@ -24,7 +24,7 @@ input:focus{
     outline :none;
     border-bottom: 2px solid rgba(255, 192, 203, 0.631);
 }
-.calculate{
+.calculate, .calculate2{
     margin-top: 1rem;
     padding: 0.5rem 1rem;
     border-radius: 10px;
@@ -41,7 +41,7 @@ p{
     border-radius: 20px;
 }
 H1{
-    color: yellowgreen;
+    color: rgb(0, 0, 0);
 }
 
 .container{
@@ -54,7 +54,7 @@ H1{
 }
 
 .simple_intrest,.compound_intrest{
-    background-image: url("./media/2833951.jpg");
+    background-color:rgba(43, 177, 226, 0.755);
     max-width:300px;
     margin-top: 8ch;
     margin-left: 8ch;

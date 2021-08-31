@@ -1,0 +1,60 @@
+label{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+   
+}
+
+body{
+    /* display: flex; */
+    justify-content: space-evenly;
+    padding: 10rem;
+    background-image: url("./media/michael-longmire-lhltMGdohc8-unsplash.jpg");
+   
+
+}
+
+.intro{
+    display: flex;
+
+    justify-content: center;
+    padding: 10rem;  
+}
+
+
+.container-fluid{
+ display: flex;
+ justify-content: space-between;
+ padding: 10rem;
+ background-color: rgba(0, 0, 0, 0.145);
+}
+
+.container, .container2{
+    display: flex-start;
+    justify-content: center;
+    align-content: center;
+  
+    padding-left:2.5rem;
+    padding-top:2.5rem;
+    padding-right:2.5rem;
+    padding-bottom:2.5rem;
+    border: 5px solid rgb(0, 0, 0);
+    
+}
+
+
+
+
+
+
+
+
+
+
+#sibtn{
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    background:rgb(6, 34, 87);
+    color:rgb(231, 219, 219);
+}
